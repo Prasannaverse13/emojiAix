@@ -110,8 +110,3 @@ The application requires a Qualcomm AI Hub API token for cloud features:
 - Local development uses a simplified version of the AI processing
 - Full AI capabilities (including IBM Granite) are available when deployed to Qualcomm Cloud Device
 - For optimal performance, run the final version on Snapdragon Elite X hardware
-
-## 🤝 Contributing
-
-7d563982e5e0be438575aae70773a4a60fce2d19
-https://aihub.qualcomm.com/get-started#postinstall
