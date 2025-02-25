@@ -1,0 +1,35 @@
+{
+    "colors": {
+        "window": "#1f1f1f",
+        "background": "#2d2d2d",
+        "foreground": "#ffffff",
+        "primary": "#0078d4",
+        "secondary": "#404040",
+        "accent": "#60cdff",
+        "border": "#404040",
+        "text": "#ffffff",
+        "textSecondary": "#c8c8c8"
+    },
+    "styles": {
+        "QMainWindow": {
+            "background-color": "#1f1f1f"
+        },
+        "QPushButton": {
+            "background-color": "#0078d4",
+            "color": "#ffffff"
+        },
+        "QLineEdit": {
+            "background-color": "#3d3d3d",
+            "color": "#ffffff",
+            "border": "1px solid #404040"
+        },
+        "QLabel": {
+            "color": "#ffffff"
+        },
+        "QComboBox": {
+            "background-color": "#3d3d3d",
+            "color": "#ffffff",
+            "border": "1px solid #404040"
+        }
+    }
+}
